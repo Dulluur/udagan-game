@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+  --accent: #8b4513;
+}
+
+@font-face {
+  font-family: "Pixelify Sans";
+  src: url("assets/Pixelify_Sans/PixelifySans-VariableFont_wght.ttf");
+}
+
+* {
+  font-family: "Pixelify Sans";
+}
